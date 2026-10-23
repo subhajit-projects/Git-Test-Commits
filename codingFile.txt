@@ -1,7 +1,7 @@
 Code line 1 from main.
 Code line 2 from main.
-Code line 3 from dev.
-Code line 4 from dev.
+Code line 7 from dev (FIX). Code line 3 from dev.
+Code line 8 from dev (FIX). Code line 4 from dev.
 Code line 5 from dev2.
 Code line 6 from dev2.
 Code line 9 from dev2 (New code added).
